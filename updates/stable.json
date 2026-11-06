@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version": "8.7.3",
-  "package_url": "https://github.com/sx151/4based-autoposter-updates/releases/download/v8.7.3/4basedAutoPoster-8.7.3.zip",
-  "sha256": "f337be51aef72c41700acd0abc6dc9451f7eabc438e3277a20789c6250a38ec5",
-  "size": 397466054,
-  "release_notes": "Signiertes Testupdate v8.7.3: Updater-Funktion prüfen; keine neuen Posting-Funktionen.",
-  "signature": "jolcggeF5rw66/J+CUwOcUoKga94msZ8KHX5IQZsX4MALFcWueALqHUfY4wttoWg7P0ao4ORRDgoxeMCKdtQCQ=="
+  "version": "8.7.4",
+  "package_url": "https://github.com/sx151/4based-autoposter-updates/releases/download/v8.7.4/4basedAutoPoster-8.7.4.zip",
+  "sha256": "e4b509422a4f131d847154dbd5ae5edfba91624c286b1f9aa0956b1d18d08095",
+  "size": 397465517,
+  "release_notes": "Update v8.7.4: dauerhaft sichtbarer Update-Button, Tastenkürzel Strg+U und stabile Statusleiste. Keine Posting-Änderungen.",
+  "signature": "WL4SR0hUXMYHg3NHztGF9Hyw0VCDDJ4p4xS/+2+77r2Htdc8qn0pAzRNFnperRpF19hKMbNJ6GI5LdqwgMS6BQ=="
 }
