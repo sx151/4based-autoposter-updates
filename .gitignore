@@ -1,0 +1,23 @@
+# Nie Geheimnisse oder persönliche Windows-Daten veröffentlichen
+*.pem
+*.p12
+*.pfx
+*.key
+*.sqlite
+*.sqlite3
+*.db
+*.har
+*.log
+*.zip
+*.exe
+*.msi
+.env
+.env.*
+**/browser_profiles/
+**/user_data/
+**/userdata/
+**/cookies/
+**/dist/
+**/build/
+**/__pycache__/
+**/signed_release/
