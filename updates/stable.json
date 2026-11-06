@@ -1,0 +1,9 @@
+{
+  "schema": 1,
+  "version": "8.7.2",
+  "package_url": "https://github.com/sx151/4based-autoposter-updates/releases/download/v8.7.2/4basedAutoPoster-8.7.2.zip",
+  "sha256": "b8b1f9058e013b145bb2064c1039018d97be610e180579c6be7d6f7a088868c5",
+  "size": 397465706,
+  "release_notes": "Erste Ausgabe mit signiertem Updatekanal",
+  "signature": "6aFG3YlCg4b9pM0CxaoE1GFYuVP5Afma2hAuQrcFCcxKTi68lXfqQ4eunB5nHqcuY3nl3E5t8ul2JPHLiwisAg=="
+}
