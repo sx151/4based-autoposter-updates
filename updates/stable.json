@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version": "9.0.1",
-  "package_url": "https://github.com/sx151/4based-autoposter-updates/releases/download/v9.0.1/4basedAutoPoster-9.0.1.zip",
-  "sha256": "f3aa0d7f47c3d57a4fa1e8ff8b54b7ee10bd24f70bc7337117a0ffbcfbd7ba95",
-  "size": 436573534,
-  "release_notes": "9.0.1: Korrigierte Anmeldung und Fehlermeldungen, klare Creator-Statusanzeige und Cloud-Steuerung. Cloud-Produktivbetrieb erfordert die separate Einrichtung und Abnahme; keine neue Posting-Freigabe.",
-  "signature": "w/sBrIO9IIJBzG+NQj/XIgKIH4qliPyhqjU6D3xorKiakKAleaEiWgTphDHg+w/R0flK9D2dVHPdqJ/80fOCDQ=="
+  "version": "9.3.2",
+  "package_url": "https://github.com/sx151/4based-autoposter-updates/releases/download/v9.3.2/4basedAutoPoster-9.3.2.zip",
+  "sha256": "0e09b6edce58721c4d38c2ae9e21ad1950dfbd6ec4edf573c190338793a89afd",
+  "size": 617500562,
+  "release_notes": "Wochenplan fuer FREE und ABO; eigene Loeschungen bestaetigen; verbundene Creator ohne unnoetigen Login-Einstieg.",
+  "signature": "aDJEnzJexdXHAbOAnoUwVWFQ+m83jvHSggAVSsvyR4xQSf/deSn8UqBwSvzV5gJ81wiXKHe0dOYsqxpsX8DQCg=="
 }
