@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version": "9.3.2",
-  "package_url": "https://github.com/sx151/4based-autoposter-updates/releases/download/v9.3.2/4basedAutoPoster-9.3.2.zip",
-  "sha256": "0e09b6edce58721c4d38c2ae9e21ad1950dfbd6ec4edf573c190338793a89afd",
-  "size": 617500562,
-  "release_notes": "Wochenplan fuer FREE und ABO; eigene Loeschungen bestaetigen; verbundene Creator ohne unnoetigen Login-Einstieg.",
-  "signature": "aDJEnzJexdXHAbOAnoUwVWFQ+m83jvHSggAVSsvyR4xQSf/deSn8UqBwSvzV5gJ81wiXKHe0dOYsqxpsX8DQCg=="
+  "version": "9.3.3",
+  "package_url": "https://github.com/sx151/4based-autoposter-updates/releases/download/v9.3.3/4basedAutoPoster-9.3.3.zip",
+  "sha256": "5255db64080618e4704ce7a2b28d9dca1a6851754a7f5e6ebcc1731f1d0400f8",
+  "size": 617525024,
+  "release_notes": "9.3.3: Creator-Einrichtung fuer FREE/ABO, geschuetzte Entwurfsaufnahme ohne Beitragserstellung, verbesserte Statusanzeigen. Automatische Planung erfordert weiterhin bestaetigte Einrichtung und Freigabe.",
+  "signature": "aT9LadzImVrgBxiF25gi+kYm3gbMgzIEJi/uuLDcr7xm0epS65Mde1H5OG8RAQ4gxOJgWfbUv3g1ERbdnjvbDA=="
 }
