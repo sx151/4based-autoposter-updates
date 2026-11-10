@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version": "9.3.3",
-  "package_url": "https://github.com/sx151/4based-autoposter-updates/releases/download/v9.3.3/4basedAutoPoster-9.3.3.zip",
-  "sha256": "5255db64080618e4704ce7a2b28d9dca1a6851754a7f5e6ebcc1731f1d0400f8",
-  "size": 617525024,
-  "release_notes": "9.3.3: Creator-Einrichtung fuer FREE/ABO, geschuetzte Entwurfsaufnahme ohne Beitragserstellung, verbesserte Statusanzeigen. Automatische Planung erfordert weiterhin bestaetigte Einrichtung und Freigabe.",
-  "signature": "aT9LadzImVrgBxiF25gi+kYm3gbMgzIEJi/uuLDcr7xm0epS65Mde1H5OG8RAQ4gxOJgWfbUv3g1ERbdnjvbDA=="
+  "version": "9.3.4",
+  "package_url": "https://github.com/sx151/4based-autoposter-updates/releases/download/v9.3.4/4basedAutoPoster-9.3.4.zip",
+  "sha256": "521e479e40e0261594e939b8818b6dc909a26bafe9356d3c20c7e0fb17bd7c4a",
+  "size": 617515231,
+  "release_notes": "9.3.4: Doppelten Einrichtungsassistenten entfernt. Bestehende Ordner bleiben erhalten. Korrekte Meldung bei nicht bestaetigtem Aufnahmebrowser-Start. Schutzpruefungen bleiben unveraendert.",
+  "signature": "oNVlkjkHlcBb7fXmMSb7qYm+LvYyj95uCCXKjOQUie1QInqI9zuP3s7h6gnRVRG7vkwDckaz48SErKc06yh5DA=="
 }
