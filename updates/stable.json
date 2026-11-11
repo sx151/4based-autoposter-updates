@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version": "9.3.4",
-  "package_url": "https://github.com/sx151/4based-autoposter-updates/releases/download/v9.3.4/4basedAutoPoster-9.3.4.zip",
-  "sha256": "521e479e40e0261594e939b8818b6dc909a26bafe9356d3c20c7e0fb17bd7c4a",
-  "size": 617515231,
-  "release_notes": "9.3.4: Doppelten Einrichtungsassistenten entfernt. Bestehende Ordner bleiben erhalten. Korrekte Meldung bei nicht bestaetigtem Aufnahmebrowser-Start. Schutzpruefungen bleiben unveraendert.",
-  "signature": "oNVlkjkHlcBb7fXmMSb7qYm+LvYyj95uCCXKjOQUie1QInqI9zuP3s7h6gnRVRG7vkwDckaz48SErKc06yh5DA=="
+  "version": "9.3.6",
+  "package_url": "https://github.com/sx151/4based-autoposter-updates/releases/download/v9.3.6/4basedAutoPoster-9.3.6.zip",
+  "sha256": "400c64fcdd06aec337b1b38ac18c2870e20c4e1f159937cb0261fddb5501baf3",
+  "size": 617516626,
+  "release_notes": "9.3.6: Geschuetzte Aufnahme im bestehenden Medienbereich. Cloudflare-Pruefpfade gezielt zugelassen; unterbrochene Bildverbindungen werden ohne Wiederholung von Eingaben wiederhergestellt. Ordnerzuweisungen bleiben erhalten.",
+  "signature": "1S9Fd8L9tvb7jKrxY9eAYeIwoa6mzS5lqlLyE23jEfOVyOA9NQS+dIfEFbGLeQfy7ERAi1/9kyaPtN9Y50mSCQ=="
 }
