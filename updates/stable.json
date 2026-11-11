@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version": "9.3.6",
-  "package_url": "https://github.com/sx151/4based-autoposter-updates/releases/download/v9.3.6/4basedAutoPoster-9.3.6.zip",
-  "sha256": "400c64fcdd06aec337b1b38ac18c2870e20c4e1f159937cb0261fddb5501baf3",
-  "size": 617516626,
-  "release_notes": "9.3.6: Geschuetzte Aufnahme im bestehenden Medienbereich. Cloudflare-Pruefpfade gezielt zugelassen; unterbrochene Bildverbindungen werden ohne Wiederholung von Eingaben wiederhergestellt. Ordnerzuweisungen bleiben erhalten.",
-  "signature": "1S9Fd8L9tvb7jKrxY9eAYeIwoa6mzS5lqlLyE23jEfOVyOA9NQS+dIfEFbGLeQfy7ERAi1/9kyaPtN9Y50mSCQ=="
+  "version": "9.3.7",
+  "package_url": "https://github.com/sx151/4based-autoposter-updates/releases/download/v9.3.7/4basedAutoPoster-9.3.7.zip",
+  "sha256": "b247a3bd75935877f31620473e9437c22078fbb40f7a4734a1b3eb08901fef94",
+  "size": 617514080,
+  "release_notes": "9.3.7: Aufnahmefenster wird erst nach abgeschlossener Vorbereitung geoeffnet. Die Cloud-Aufnahme verwendet den nativ gestarteten privaten Browser mit bestehender Postsperre. Ordnerzuweisungen bleiben erhalten.",
+  "signature": "GuG5GKbZtY4qqub53ITx45yahRYMXqxi4AMyAMnnF0G4XWvqyo3y3P5a0Mc7Avf6alHBwrlPuUnsr04z9/s4Bg=="
 }
